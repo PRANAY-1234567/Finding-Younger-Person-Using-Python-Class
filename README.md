@@ -119,3 +119,6 @@ This helps you understand:
 ## 📄 License
 
 This project is open-source and free to use.
+
+<img width="1273" height="701" alt="image" src="https://github.com/user-attachments/assets/2d560712-7a61-4dd9-811b-2bb9bbe4aedb" />
+
