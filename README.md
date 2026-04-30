@@ -42,7 +42,6 @@ This Python program demonstrates how to **compare two objects** and return one b
 
 ## 💻 Code
 
-```python id="h3x9pt"
 class Person:
     def __init__(self, name, age):
         self.name = name
