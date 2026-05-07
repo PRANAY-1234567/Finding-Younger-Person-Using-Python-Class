@@ -20,4 +20,3 @@ y = p1.younger(p2)
 
 print("Younger Person")
 y.getInfo()
-        
